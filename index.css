@@ -1,0 +1,27 @@
+.sticky {
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+/*************************************/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.topbar {
+    background-color: cornflowerblue;
+    min-height: 100px;
+    width: 100%;
+}
+
+button {
+    background: cornflowerblue;
+    outline: none;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
